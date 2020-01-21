@@ -1,0 +1,11 @@
+/home/jairo/Documentos/Desafio/bin/Debug/netcoreapp3.1/Desafio
+/home/jairo/Documentos/Desafio/bin/Debug/netcoreapp3.1/Desafio.deps.json
+/home/jairo/Documentos/Desafio/bin/Debug/netcoreapp3.1/Desafio.runtimeconfig.json
+/home/jairo/Documentos/Desafio/bin/Debug/netcoreapp3.1/Desafio.runtimeconfig.dev.json
+/home/jairo/Documentos/Desafio/bin/Debug/netcoreapp3.1/Desafio.dll
+/home/jairo/Documentos/Desafio/bin/Debug/netcoreapp3.1/Desafio.pdb
+/home/jairo/Documentos/Desafio/obj/Debug/netcoreapp3.1/Desafio.csprojAssemblyReference.cache
+/home/jairo/Documentos/Desafio/obj/Debug/netcoreapp3.1/Desafio.AssemblyInfoInputs.cache
+/home/jairo/Documentos/Desafio/obj/Debug/netcoreapp3.1/Desafio.AssemblyInfo.cs
+/home/jairo/Documentos/Desafio/obj/Debug/netcoreapp3.1/Desafio.dll
+/home/jairo/Documentos/Desafio/obj/Debug/netcoreapp3.1/Desafio.pdb
